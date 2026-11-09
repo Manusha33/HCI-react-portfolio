@@ -13,7 +13,7 @@ function Home() {
           </p>
           <div className="social-links">
             <a href="https://github.com/Manusha33" target="_blank" rel="noopener noreferrer" className="btn btn-outline">GitHub Profile</a>
-            <a href="https://www.linkedin.com/in/manusha-ginige-09a741303/" target="_blank" rel="noopener noreferrer" className="btn btn-outline">LinkedIn Profile</a>
+            <a href="www.linkedin.com/in/manusha-ginige-09a741303" target="_blank" rel="noopener noreferrer" className="btn btn-outline">LinkedIn Profile</a>
           </div>
         </div>
       </header>
